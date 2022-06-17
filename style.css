@@ -350,9 +350,13 @@ a {
     }
 }
 
-.btn:hover {
+.btn2:hover {
     cursor: pointer;
     background-color: pink;
+}
+
+.btn:hover {
+    cursor: pointer;
 }
 
 @media (max-width:552px) {
